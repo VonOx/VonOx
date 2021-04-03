@@ -4,8 +4,6 @@
 Hi, my name is Vincent, I'm currently application engineer for industry (CAD/PLM/IOT).
 Proud father of two, I'm currently invest my free time for ![Gladys Assistant](gladysassistant.com)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GladysAssistant&repo=Gladys)](https://github.com/GladysAssistant/Gladys)
-
 ![VonOx's GitHub stats](https://github-readme-stats.vercel.app/api?username=vonox&show_icons=true&theme=tokyonight&hide_title=1)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=VonOx.VonOx)
