@@ -23,7 +23,7 @@ jobs:
 
           # Options
           user: VonOx
-          template: classic
+          template: terminal
           base: activity, community, repositories, metadata
           config_timezone: Europe/Paris
           plugin_habits: yes
